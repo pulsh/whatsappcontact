@@ -1,0 +1,21 @@
+{
+  "name": "anokesh/whatsappcontact",
+  "description": "Add whatsapp chat button to magento storefront",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Anokesh",
+      "email": "01anokesh@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Anokesh\\Whatsappcontact\\": ""
+    },
+    "files": [
+      "registration.php"
+    ]
+  }
+}
