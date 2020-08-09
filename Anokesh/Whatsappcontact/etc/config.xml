@@ -7,7 +7,7 @@
                 <status>1</status>
                 <phone>+91xxxxxxxxx</phone>
                 <message>Hello! How can I help you.</message>
-            </whatsapp_contact>
+            </whatsappcontact>
         </contact>
     </default>
 </config>
